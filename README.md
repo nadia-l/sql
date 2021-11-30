@@ -1,5 +1,5 @@
 
--👋 Hi, I’m @nadia-l, interested in setting up a portfolio of projects I like working on :) Currently training on exploratory data analysis with python and SQL.
+-👋 Hi, I’m @nadia-l, currently exploring data analytics with Python and SQL. As part of my training, i'm setting up a portfolio of projects that intirgue my interest :)
 
 
 
